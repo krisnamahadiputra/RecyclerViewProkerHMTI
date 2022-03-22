@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Program Kerja HMTI</string>
+    <string name="nama_program_kerja">Nama Program Kerja</string>
+    <string name="deskripsi">Deskripsi</string>
+</resources>
